@@ -5,7 +5,7 @@
   </a>
 </p>
 
-[production](https://master--whimsical-conkies-c772b3.netlify.app/)
+[See this app in production](https://master--whimsical-conkies-c772b3.netlify.app/)
 
 <h1 align="center">
   Made with Gatsby's default starter 
